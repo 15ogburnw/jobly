@@ -1,0 +1,14 @@
+
+
+.JobCard {
+    box-shadow: -1px 1px 3px gray;
+}
+
+.JobCard p {
+    margin: 0px;
+}
+
+.JobCard button {
+    margin-top: 20px;
+}
+
